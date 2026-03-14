@@ -49,6 +49,8 @@ The CLV model considers:
 
 CLV helps businesses understand customer profitability over time and evaluate the efficiency of customer acquisition.
 
+For Detail Business Insights please refer Business_Insights.docx file available in repo
+
 **Tools Used**
 
 Power BI Desktop – dashboard development
