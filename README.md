@@ -51,6 +51,8 @@ CLV helps businesses understand customer profitability over time and evaluate th
 
 For Detail Business Insights please refer Business_Insights.docx file available in repo
 
+For Screenshots Please visit in the Repo
+
 **Tools Used**
 
 Power BI Desktop – dashboard development
